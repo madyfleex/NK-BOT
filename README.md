@@ -34,7 +34,7 @@ Para nuevos desde cero en termux:
 > apt install ffmpeg && pkg install ffmpeg
 > apt install wget && pkg install wget
 
-⚡Si necesitas mas ayuda puedes contactarme :3 wa.me/+51995386439
+⚡Si necesitas mas ayuda puedes contactarme :3 wa.me/+5804120317720
 ```
 ## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
 ```bash
@@ -46,7 +46,7 @@ Para detener al bot en termux
 > Ctrl+c/Ctrl+z
 
 ⚡Si necesitas mas ayuda puedes contactarme 
-+51 995 386 439
++58 0412 031 7720
 ```
 ## Partes donde puedes editar al bot :v
 - Edicion de tu numero, nombre del bot, limite... [este archivo](https://github.com/NeKosmic/NeKosmic/blob/main/informacion.json)
@@ -60,8 +60,8 @@ Para detener al bot en termux
 {
     "botcontrolador": "NUMERO PRINCIPAL", (Su numero con el cual usaran al bot por completo)
     "contribuidor": "NUMERO SECUNDARIO", (Pueden poner el numero de un familiar, mejor amig@, novi@... podra usar el bot al igual que el dueño principal :v)
-    "tarjetavirtualx": "NUMERO PRINCIPAL CON PREFIJO", (1. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+51995386439")
-    "tarjetavirtualy": "NÚMERO PRINCIPAL CON PREFIJO", (2. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+51 995 386 439")
+    "tarjetavirtualx": "NUMERO PRINCIPAL CON PREFIJO", (1. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+5804120317720")
+    "tarjetavirtualy": "NÚMERO PRINCIPAL CON PREFIJO", (2. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+58 0412 031 7720")
     "dueñobot": "NOMBRE DEL CREADOR", (Poner su nombre real o su nickname ._.XD)
     "misredes": "AQUI PUEDEN PONER EL LINKS DE SUS REDES SOCIALES ;3",
   "limiteengrupos": "LIMITE DE MIENBROS EN UN GRUPO", (Ejm: Cuando alguien agrege al bot a un grupo con menos de 2 integrantes automáticamente el bot se saldra del grupo, limite es desde 2 asta 257)
